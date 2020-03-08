@@ -54,7 +54,7 @@ bool uniqueOccurrences(int* arr, int arrSize){
             }
         }
     }
-	// check if there is equal counters
+    // check if there is equal counters
     for (int i = 0; i < arrSize; i++){
         if (count[i] == 0) continue;
 
