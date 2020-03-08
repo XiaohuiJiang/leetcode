@@ -8,7 +8,7 @@ leetcode-cn practice
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithm/c/unique-number-of-occurrences/unique-number-of-occurrences.c)|Easy|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C](./algorithm/c/unique-number-of-occurrences/unique-number-of-occurrences.c)|Easy|
 
 
 ## License
